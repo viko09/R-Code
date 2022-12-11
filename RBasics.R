@@ -11,6 +11,11 @@ print("2+2 = ")
 2+2 # Gives the value of the sum
 # ---------------------------------------
 
+# Basic Operations
+23 + 4
+20 - 26
+4^2
+
 x <- 2 # Saves a variable
 print("x value")
 x # Print the value of the variable
